@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Quizz-moi.git/static/css/main.415a9624.css",
+    "main.js": "/Quizz-moi.git/static/js/main.a408a7da.js",
+    "static/media/IMG_2841_1_.gif": "/Quizz-moi.git/static/media/IMG_2841_1_.9e5fca6b85db06eacbb0.gif",
+    "static/media/UNKQ4798_1_.gif": "/Quizz-moi.git/static/media/UNKQ4798_1_.837c62fb6db61e47158d.gif",
+    "static/media/IMG_2829.JPG": "/Quizz-moi.git/static/media/IMG_2829.c7450e01dd06f4e3a728.JPG",
+    "static/media/IMG_2854.JPG": "/Quizz-moi.git/static/media/IMG_2854.2c4beb5a1cf5334de5cc.JPG",
+    "static/media/IMG_2844.JPG": "/Quizz-moi.git/static/media/IMG_2844.635497a39c033fb7f75c.JPG",
+    "static/media/IMG_2833.JPG": "/Quizz-moi.git/static/media/IMG_2833.6cfd38aadec1e577edf3.JPG",
+    "static/media/IMG_2856.JPG": "/Quizz-moi.git/static/media/IMG_2856.af0f9c0bd3360ed671e0.JPG",
+    "static/media/IMG_2840.JPG": "/Quizz-moi.git/static/media/IMG_2840.9d705d5cb72af546db70.JPG",
+    "static/media/IMG_2842.JPG": "/Quizz-moi.git/static/media/IMG_2842.8f56449ceb6aa3e5e695.JPG",
+    "static/media/IMG_2868.JPG": "/Quizz-moi.git/static/media/IMG_2868.de0acea32b01b3cfa8a0.JPG",
+    "static/media/IMG_2855.JPG": "/Quizz-moi.git/static/media/IMG_2855.52056b2454ffe65110e1.JPG",
+    "index.html": "/Quizz-moi.git/index.html",
+    "main.415a9624.css.map": "/Quizz-moi.git/static/css/main.415a9624.css.map",
+    "main.a408a7da.js.map": "/Quizz-moi.git/static/js/main.a408a7da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.415a9624.css",
+    "static/js/main.a408a7da.js"
+  ]
+}
