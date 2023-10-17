@@ -1,0 +1,103 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 35rem;
+  height: 40rem;
+  background-color: rgb(232, 192, 125);
+  border-radius: 10px;
+  text-align: center;
+  gap: 1rem;
+  overflow: hidden;
+  padding: 10px;
+}
+
+img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 300px;
+  border-radius: 10px 10px 0px 0px;
+  object-fit: contain;
+}
+
+.question-container {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  font-size: 20px;
+}
+
+.question {
+  text-align: left;
+  padding-bottom: 2rem;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 1rem;
+}
+
+li {
+  display: flex;
+  background-color: rgb(223, 168, 120);
+  height: 3rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.selected-answer {
+  transition: background-color 0.3s, color 0.5s;
+  background-color: rgb(204, 112, 75);
+}
+
+.button-container {
+  display: flex;
+  justify-content: right;
+}
+
+button:disabled {
+  margin-top: 3rem;
+  border: none;
+  background-color: white;
+  color: rgb(204, 112, 75);
+  border-radius: 15px;
+  width: 10rem;
+  height: 3rem;
+}
+
+button {
+  transition: background-color 0.3s, color 0.5s;
+  margin-top: 3rem;
+  border: none;
+  background-color: rgb(204, 112, 75);
+  color: white;
+  border-radius: 15px;
+  width: 10rem;
+  height: 3rem;
+  font-family: "Kosugi Maru";
+  font-size: large;
+}
+
+.result {
+  font-size: large;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  gap: 3rem;
+}
+
+.correct-answer {
+  background-color: #a5d6a7;
+  color: green;
+}
+
+.incorrect-answer {
+  background-color: #ffa5a5;
+  color: red;
+}
